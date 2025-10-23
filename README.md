@@ -10,4 +10,5 @@ A self-paced learning program for the new joiners at the GS account.
 ### Mathematics Problems
 Has total 7 problems tha make you think out of the box for solving some of the basic questions of mathematics through coding making you better at the mathematics part of the development
 
-
+### String & Pattern Problems
+`You will Pattern and Matcher class of java in this section`
