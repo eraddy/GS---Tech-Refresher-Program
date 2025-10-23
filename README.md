@@ -24,3 +24,9 @@ This section contains **9 problems** centered on **string manipulation**, **patt
 You’ll utilize Java’s `Pattern` and `Matcher` classes to explore text-processing techniques and gain a deeper understanding of **pattern-based data handling** — a vital concept in backend and data-driven application development.
 
 ---
+
+### 🔢 Numbers/Numeric Problems
+This section contains **2 problems** that are easy and mainly focus on the logic building around efficient traversal over the **array**
+
+---
+
