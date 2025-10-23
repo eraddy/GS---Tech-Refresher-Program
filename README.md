@@ -1,14 +1,26 @@
-# GS - Tech Refresher Program
-A self-paced learning program for the new joiners at the GS account.
+# 🧠 GS – Tech Refresher Program
 
-## Use Case
-1. Refresh all the basic concepts of the resource
-2. Gets the hand on practice 
-3. Covers the main topics required in the production
+A **self-paced technical learning initiative** designed for new joiners in the **GS account** to strengthen their foundational knowledge and coding proficiency.
 
-## Sections
-### Mathematics Problems
-Has total 7 problems tha make you think out of the box for solving some of the basic questions of mathematics through coding making you better at the mathematics part of the development
+---
 
-### String & Pattern Problems
-`You will Pattern and Matcher class of java in this section`
+## 🚀 Use Case
+1. Reinforce and refresh **fundamental programming and computer science concepts**.
+2. Gain **hands-on practical experience** through structured problem-solving exercises.
+3. Cover **core technical topics** essential for real-world production and project delivery.
+
+---
+
+## 📘 Sections
+
+### 🧩 Mathematics Programming Challenges
+This section includes **7 algorithmic problems** that enhance **logical reasoning** and **analytical thinking**.  
+Each problem focuses on solving mathematical concepts through code, helping developers build a strong foundation in **mathematical problem-solving and algorithmic design** — critical skills for effective software development.
+
+---
+
+### 🧵 String & Pattern Programming Challenges
+This section contains **9 problems** centered on **string manipulation**, **pattern recognition**, and **regular expressions (RegEx)**.  
+You’ll utilize Java’s `Pattern` and `Matcher` classes to explore text-processing techniques and gain a deeper understanding of **pattern-based data handling** — a vital concept in backend and data-driven application development.
+
+---
