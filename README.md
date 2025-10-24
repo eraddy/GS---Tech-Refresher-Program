@@ -32,3 +32,9 @@ This section contains **2 problems** that are easy and mainly focus on the logic
 
 ### 🤯 Data Structure Implementation
 This section contains 2 problems focused on implementing custom data structures to strengthen understanding of stack, queue, and hash-based mechanisms. You’ll explore how to design efficient collections like `Deque` and `MyHashMap`, enhancing your grasp of memory organization, lookup operations, and data management fundamentals.
+
+---
+
+### 📏 Arrays
+
+This section has 2 questions related to arrays and are mainly focused on concepts like `Prefix Sum`, `Merge sort`, `Sliding Window`. 
