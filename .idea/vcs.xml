@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Design_Pattern/command-design-pattern" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Design_Pattern/singleton-design-pattern" vcs="Git" />
   </component>
 </project>

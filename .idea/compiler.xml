@@ -8,23 +8,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="GS_Tech_Refresher" />
         <module name="Adapter_Design_Pattern" />
-        <module name="jmp-cloud-bank-impl" />
-        <module name="jmp-cloud-service-impl" />
-        <module name="music-player" />
-        <module name="jmp-dto" />
         <module name="Observer_Desing_Pattern" />
         <module name="Prototype_Desing_pattern" />
         <module name="Builder_Desing_Pattern" />
-        <module name="jmp-service-api" />
-        <module name="design-pattern" />
         <module name="SmartHome" />
         <module name="Decorator_Desing_Pattern" />
         <module name="Strategy_Design_Pattern" />
         <module name="Factory_Design_Pattern" />
-        <module name="Application" />
-        <module name="jmp-bank-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Application" target="17" />
+      <module name="design-pattern" target="1.8" />
+      <module name="jmp-bank-api" target="17" />
+      <module name="jmp-cloud-bank-impl" target="17" />
+      <module name="jmp-cloud-service-impl" target="17" />
+      <module name="jmp-dto" target="17" />
+      <module name="jmp-parent" target="17" />
+      <module name="jmp-service-api" target="17" />
+      <module name="music-player" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
