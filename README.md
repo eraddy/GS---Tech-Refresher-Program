@@ -79,9 +79,9 @@ If you’d like to enhance the repository:
 **👨‍💻 Aditya Shukla**
 > _SDE-1 | Java Developer | Passionate about Backend & Design Patterns_
 
-- 💼 [LinkedIn](www.linkedin.com/in/eraddy)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-shukla-eraddy)
 - 🧠 [GitHub](https://github.com/)
-- 📧 Email: yourname@example.com
+- 📧 Email: eraddy1010@gmail.com
 
 ---
 
