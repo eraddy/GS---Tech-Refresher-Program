@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DSA/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/SmartHome/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Adapter_Design_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Builder_Desing_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/command-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Factory_Design_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Observer_Desing_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Strategy_Design_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Decorator_Desing_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/Prototype_Desing_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/singleton-design-pattern/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

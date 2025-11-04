@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DSA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DSA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Adapter_Design_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Adapter_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Builder_Desing_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Builder_Desing_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Decorator_Desing_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Decorator_Desing_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Factory_Design_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Factory_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Observer_Desing_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Observer_Desing_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Prototype_Desing_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Prototype_Desing_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/SmartHome/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/SmartHome/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Strategy_Design_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/Strategy_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/Application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/Application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-bank-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-bank-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-cloud-bank-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-cloud-bank-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-cloud-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-cloud-service-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/jmp-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/java-8-9-10-11-Practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Design_Pattern/singleton-design-pattern/src/main/java" charset="UTF-8" />
+  </component>
+</project>

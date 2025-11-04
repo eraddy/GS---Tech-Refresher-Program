@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GS_Tech_Refresher" />
+        <module name="Adapter_Design_Pattern" />
+        <module name="jmp-cloud-bank-impl" />
+        <module name="jmp-cloud-service-impl" />
+        <module name="music-player" />
+        <module name="jmp-dto" />
+        <module name="Observer_Desing_Pattern" />
+        <module name="Prototype_Desing_pattern" />
+        <module name="Builder_Desing_Pattern" />
+        <module name="jmp-service-api" />
+        <module name="design-pattern" />
+        <module name="SmartHome" />
+        <module name="Decorator_Desing_Pattern" />
+        <module name="Strategy_Design_Pattern" />
+        <module name="Factory_Design_Pattern" />
+        <module name="Application" />
+        <module name="jmp-bank-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="design-pattern" options="-parameters" />
+    </option>
+  </component>
+</project>
