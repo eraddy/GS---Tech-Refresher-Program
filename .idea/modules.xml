@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GS_Tech_Refresher.iml" filepath="$PROJECT_DIR$/.idea/GS_Tech_Refresher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Design_Pattern/command-design-pattern/music-player.iml" filepath="$PROJECT_DIR$/Design_Pattern/command-design-pattern/music-player.iml" />
     </modules>
   </component>
 </project>

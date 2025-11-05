@@ -18,15 +18,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Application" target="17" />
       <module name="design-pattern" target="1.8" />
-      <module name="jmp-bank-api" target="17" />
-      <module name="jmp-cloud-bank-impl" target="17" />
-      <module name="jmp-cloud-service-impl" target="17" />
-      <module name="jmp-dto" target="17" />
-      <module name="jmp-parent" target="17" />
-      <module name="jmp-service-api" target="17" />
-      <module name="music-player" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

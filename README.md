@@ -80,7 +80,6 @@ If you’d like to enhance the repository:
 > _SDE-1 | Java Developer | Passionate about Backend & Design Patterns_
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-shukla-eraddy)
-- 🧠 [GitHub](https://github.com/)
 - 📧 Email: eraddy1010@gmail.com
 
 ---
