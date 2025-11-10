@@ -1,19 +1,19 @@
 package com.example;
 
-interface LinkedList {
+interface LinkedList<I extends Number> {
     void printValue();
-    LinkedList getNext();
+    LinkedList<Number> getNext();
 }
 
 /**
  * ImmutableLinkedList represents an immutable node in a singly linked list.
  * Once created, its value and next reference cannot be changed.
  */
-final class ImmutableLinkedList implements LinkedList {
+final class ImmutableLinkedList implements LinkedList<Number> {
     private final int value;
-    private final LinkedList next;
+    private final LinkedList<Number> next;
 
-    ImmutableLinkedList(int value, LinkedList next) {
+    ImmutableLinkedList(int value, LinkedList<Number> next) {
         this.value = value;
         this.next = next;
     }
@@ -24,7 +24,7 @@ final class ImmutableLinkedList implements LinkedList {
     }
 
     @Override
-    public LinkedList getNext() {
+    public LinkedList<Number> getNext() {
         return next;
     }
 }
@@ -40,7 +40,7 @@ public class ImmutableLinkedListInReverse {
      *
      * @param head The head of the linked list (can be null)
      */
-    public void printLinkedListInReverse(LinkedList head) {
+    public void printLinkedListInReverse(LinkedList<Number> head) {
         if (head == null) return; // Handle null or empty list
         printLinkedListInReverse(head.getNext());
         head.printValue();
@@ -50,8 +50,8 @@ public class ImmutableLinkedListInReverse {
      * Alternative iterative version to handle very large lists
      * and avoid potential StackOverflowError.
      */
-    public void printLinkedListInReverseIterative(LinkedList head) {
-        java.util.Stack<LinkedList> stack = new java.util.Stack<>();
+    public void printLinkedListInReverseIterative(LinkedList<Number> head) {
+        java.util.Stack<LinkedList<Number>> stack = new java.util.Stack<>();
         while (head != null) {
             stack.push(head);
             head = head.getNext();
