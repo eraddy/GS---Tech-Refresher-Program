@@ -3,7 +3,7 @@
 
 ## 🧠 Sections Overview
 
-### 🔹 **1. Data Structures & Algorithms (DSA)**
+### 🔹 Data Structures & Algorithms (DSA)
 - Covers fundamental and advanced problems using **Java**.
 - Includes implementations and explanations of:
     - Arrays, Strings, Linked Lists
@@ -17,7 +17,7 @@
 
 ---
 
-### 🔹 **2. Design Patterns**
+### 🔹  Design Patterns
 - A deep dive into **Object-Oriented Design** and **Software Architecture Patterns**.
 - Includes implementations of:
     - **Creational Patterns:** Singleton, Factory, Abstract Factory, Builder
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔹 **3. Java 8–11 Tasks**
+### 🔹 Java 8–11 Tasks
 Covers modern Java features through hands-on tasks and examples.
 
 | Java Version | Key Features Covered |
@@ -52,6 +52,11 @@ Each version folder includes:
 - Interview-oriented questions
 
 ---
+
+### 📏 Gitlab_Collections
+
+All the practice modules of the gitlab collections tasks only the solution classes
+
 
 ## 🛠️ Tech Stack
 
