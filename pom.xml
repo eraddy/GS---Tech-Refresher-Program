@@ -13,6 +13,7 @@
         <module>DSA</module>
         <module>Java 8 Task</module>
         <module>DsAlgoPracticeTast</module>
+        <module>spring-boot-basic</module>
     </modules>
 
     <properties>
