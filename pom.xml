@@ -13,7 +13,8 @@
         <module>DSA</module>
         <module>Java 8 Task</module>
         <module>DsAlgoPracticeTast</module>
-        <module>spring-boot-basic</module>
+        <module>mongo_practice</module>
+<!--        <module>spring-boot-basic</module>-->
     </modules>
 
     <properties>
