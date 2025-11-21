@@ -53,7 +53,7 @@ Each version folder includes:
 
 ---
 
-### 📏 Gitlab_Collections
+### 🔹 Gitlab_Collections
 
 All the practice modules of the gitlab collections tasks only the solution classes
 
