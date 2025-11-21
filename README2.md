@@ -102,6 +102,33 @@ Create a detailed multi-day routine (workouts, learning schedule, productivity p
 
 ---
 
+
+## 🟪 Structured HR Interview Feedback Generation
+
+**Use Case**:
+Generate consistent, professional, and JD-aligned interview feedback using a standardized HR evaluation template.
+
+**Template Concept**:
+- Provide the Job Description (JD) including required skills, responsibilities, and preferred qualifications.
+- Provide a Feedback Form Template with fields such as:
+    - Candidate Name 
+    - Position Interviewed For 
+    - Skills Rating (1–5)
+    - Competencies Rating (1–5)
+    - Strengths 
+    - Areas for Improvement 
+    - Overall Recommendation (Yes/No)
+    - Comments
+ - Provide Candidate Notes & Observations summarizing their interview performance.
+
+**Model Output Requirements**:
+- Analyze the JD and candidate observations. 
+- Rate skills and competencies strictly based on role expectations. 
+- Provide actionable, specific strengths and areas for improvement. 
+- Use a professional, concise HR tone. 
+- Follow the feedback template exactly. 
+- Ensure feedback is meaningful, JD-aligned, and structured.
+
 # ✅ Summary
 
 This README gives you:
