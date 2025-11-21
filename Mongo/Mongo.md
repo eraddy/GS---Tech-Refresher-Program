@@ -324,6 +324,3 @@ public class UserController {
 - Use **projection** to reduce network load
 
 ---
-
-## 📜 License
-This project is for educational and reference use.
