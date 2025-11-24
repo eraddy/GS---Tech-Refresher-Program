@@ -57,6 +57,14 @@ Each version folder includes:
 
 All the practice modules of the gitlab collections tasks only the solution classes
 
+### Mongo
+Mongo DB notes
+
+### mongo-practice
+Mongo DB configured in spring project example
+
+### Spring-boot-practice
+Just the solution for the gitlab task of spring
 
 ## 🛠️ Tech Stack
 
